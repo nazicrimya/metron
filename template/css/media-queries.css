@@ -1,0 +1,288 @@
+@media screen and (min-width : 1350px) and (max-width : 1524px) {
+   .container {
+      width: 60%;
+      margin-right: 18%!important;
+   }
+   .menuRow {
+      font-size: 100%;
+   }
+   .menuRow ul li {
+      padding: 10px 20px!important;
+   }
+   .menuList {
+      height: 200px;
+      font-size: 80%;
+   }
+   .slideMenu {
+      height: 200px;
+      font-size: 80%;
+   }
+   #call {
+      font-size: 80%;
+      height: 60px!important;
+   }
+   #call h2 {
+      padding-top: 5px;
+   }
+   .logo {
+      height: 120px;
+   }
+   .logo img {
+      width: 70%;
+      padding-top: 35px;
+   }
+   .menuRow ul {
+      margin-top: 10px;
+      font-size: 90%;
+   }
+}
+@media screen and (min-width : 1023px) and (max-width : 1349px) {
+   #call {
+      font-size: 70%;
+   }
+}
+@media screen and (min-width : 768px) and (max-width : 1022px) {
+   .container {
+      width: 80%;
+      margin-right: 18%!important;
+      padding-left: 20px!important;
+   }
+   .menuRow {
+      font-size: 80%;
+   }
+   .panorama {
+      margin-right: 18%;
+   }
+   .menuList {
+      height: 150px;
+   }
+   .slideMenu {
+      height: 150px;
+      font-size: 60%;
+   }
+   .slideMenu .menu-row {
+      padding: 5px 15px;
+   }
+   #call {
+      font-size: 10%;
+      height: 50px!important;
+   }
+   .menuRow ul li {
+      padding: 5px 10px!important;
+   }
+   #call h2 {
+      padding-top: 5px;
+   }
+   .logo {
+      height: 100px;
+   }
+   .logo img {
+      width: 60%;
+      padding-top: 35px;
+   }
+   .menuRow ul {
+      margin-top: 10px;
+      font-size: 70%;
+   }
+   .slider_wrap {
+      width: 480px!important;
+      height: 200px!important;
+      left:50%; margin-left:-250px!important;
+      top:50%; margin-top:-100px!important;
+   }
+   .slider_wrap img {
+      width: 440px!important;
+      height: 250px!important;
+   }
+   .slider_wrap span {
+      margin-top: -10px!important;
+   }
+   #sliderIco {
+      padding: 5px 50px!important;
+      margin-left: -70px!important;
+   }
+}
+
+@media screen and (min-width : 450px) and (max-width : 767px) {
+   .container {
+      width: 80%;
+      margin-right: 18%!important;
+      padding-left: 20px!important;
+   }
+   .h1Main {
+      font-size: 80%!important;
+   }
+   .menuRow {
+      font-size: 60%;
+      width: 20%!important;
+   }
+   .menuRow ul li {
+      padding: 5px 10px!important;
+   }
+   .panorama {
+      margin-right: 20%;
+   }
+   .menuList {
+      font-size: 60%!important;
+      height: 100px!important;
+   }
+    .slideMenu {
+      font-size: 30%!important;
+      height: 100px!important;
+    }
+    .slideMenu ul {
+        margin-top: 10px;
+    }
+    .slideMenu ul li {
+        padding: 5px 10px!important;
+    }
+   #call {
+      font-size: 80%;
+      height: 40px!important;
+   }
+   #call h2 {
+      padding-top: 5px;
+   }
+   .logo {
+      height: 60px;
+   }
+   .logo img {
+      width: 40%;
+      padding-top: 20px;
+   }
+   .logo h4 {
+      padding-top: 5px;
+   }
+   .menuRow ul {
+      margin-top: 10px;
+   }
+}
+
+
+@media screen and (max-width : 450px) {
+   .container {
+      max-width: 450px!important;
+      width: 99%!important;
+      font-size: 70%!important;
+      margin-right: 30%!important;
+   }
+   .container .headOfTitle {
+      padding-left: 37%!important;
+   }
+   .container p {
+      padding-left: 35%!important;
+   }
+   .container .aboutList {
+      padding-left: 39%!important;
+   }
+   .aboutTable {
+       display: block;
+       width: 81%;
+      margin-left: 29%!important;
+      margin-right: 28%!important;
+   }
+   .aboutTable tbody {
+       display: block;
+   }
+   .aboutTable tr {
+       display: block;
+       width: 100%!important;
+        margin-right: 29%!important;
+   }
+   .aboutTable th, td {
+       display: block;
+       width: 20%;
+        padding: 1%!important;
+        font-size: 40%!important;
+        float: left;
+   }
+   .h1Main {
+      font-size: 40%!important;
+   }
+   .menuRow {
+      font-size: 100%!important;
+      width: 30%;
+      min-height: 100%;
+   }
+   .menuRow ul li {
+      padding: 5px 10px!important;
+   }
+   .panorama {
+       margin-right: 30%;
+   }
+   .menuList {
+      font-size: 45%!important;
+   }
+   #call {
+      font-size: 37%;
+      height: 40px!important;
+   }
+   #call h2 {
+      padding-top: 10px;
+   }
+   .logo {
+      height: 60px;
+   }
+   .logo img {
+      width: 60%;
+      padding-top: 20px;
+   }
+   .logo h4 {
+      padding-top: 7px;
+      font-size: .5em!important;
+   }
+   .menuRow ul {
+      margin-top: 5px;
+   }
+   .menuRow ul li {
+      padding: 5px 10px!important;
+      font-size: .5em;
+   }
+   .slider_wrap {
+      width: 240px!important;
+      height: 100px!important;
+      left:50%; margin-left:-150px!important;
+      top:50%; margin-top:-50px!important;
+   }
+   .slider_wrap img {
+      width: 200px!important;
+      height: 150px!important;
+   }
+   .slider_wrap span {
+      margin-top: -10px!important;
+   }
+   .slideMenu {
+      height: 150px;
+      font-size: .5em;
+   }
+   .menuList {
+      height: 150px;
+      font-size: .5em;
+   }
+   .menuList span {
+       margin: 5px 10px;
+   }
+   #sliderIco {
+      padding: 5px 20px!important;
+      margin-left: -30px!important;
+      font-size: 50%;
+   }
+   .slideMenu .hight {
+      padding-left: 37%!important;
+   }
+   .slideMenu .hight, .low {
+       width: 30%!important;
+       font-size: 20%!important;
+   }
+   .slideMenu ul {
+       width: 40%!important;
+       margin-right: 5px;
+   }
+   .slideMenu ul li {
+       padding: 5px;
+   }
+   .subscribe {
+       font-size: .3em!important;
+       right: 30%;
+   }
+}
